@@ -3,7 +3,7 @@ package a20250001;
 public class Main {
 
 	public static void main(String[] args) {
-		String s = "hello world"
+		String s = "안녕하세요";
 		System.out.println(s);
 	}
 }
